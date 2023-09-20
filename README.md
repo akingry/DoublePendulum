@@ -1,8 +1,6 @@
 # Double Pendulum Chaotic System
 This is a frictionless double pendulum with two lengths and two masses, solved using Lagrangians and the Runge-Kutta method.
 
-# Logic
-
 ![pend1](https://github.com/akingry/DoublePendulum/assets/111338740/4ab01fff-ad36-46c9-bc06-48e7ffaa0881)
 
 Initializes a timer that simulated a double pendulum's motion, updating its positions and refreshes the form.
