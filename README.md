@@ -1,5 +1,7 @@
-# DoublePendulum
-Double pendulum chaos example. This is a frictionless double pendulum with two lengths and two masses, solved using Lagrangians and the Runge-Kutta method. The tip of length two is tracked with colored circles. Gravity parameters may be changed with the variable g. Friction may be added by setting the dampening constant to some number.
+# Double Pendulum Chaotic System
+This is a frictionless double pendulum with two lengths and two masses, solved using Lagrangians and the Runge-Kutta method.
+
+# Logic
 
 ![pend1](https://github.com/akingry/DoublePendulum/assets/111338740/4ab01fff-ad36-46c9-bc06-48e7ffaa0881)
 
