@@ -15,7 +15,7 @@ Calculates the derivatives of the double pendulum's position and velocity with r
 
 ![calc](https://github.com/akingry/DoublePendulum/assets/111338740/0294832b-a1c2-43f1-9e67-e0ec53d217b7)
 
-Visual rendering of a the simulation calculates and draws the positions of the pendulum masses, updates a trail of colored circles at the second pendulum's tip, and removes older circles to maintain a clear representation of the motion.
+Visual rendering calculates the positions of the pendulum masses, updates a trail of colored circles at the second pendulum's tip, and removes older circles to maintain a clear representation of the motion.
 
 ![paint](https://github.com/akingry/DoublePendulum/assets/111338740/f25cb2d5-2061-4b6e-b0fa-1f5f7aa7a169)
 
